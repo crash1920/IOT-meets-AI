@@ -1,0 +1,19 @@
+   <!-- Single Slide -->
+            <div class="single-welcome-slide bg-img bg-overlay jarallax" style="background-image: url(img/bg-img/cov.png);">
+                <div class="container h-100">
+                    <div class="row h-100 align-items-center">
+                        <!-- Welcome Text -->
+                        <div class="col-12">
+                            <div class="welcome-text text-right">
+                                <h2 style="font-size: 66px;"data-animation="fadeInUp" data-delay="300ms">IOT Meets AI<br> hackathon</h2>
+                                
+                                <h6 data-animation="fadeInUp" data-delay="500ms">28th - 29th February and 1st March 2020 in Tunis, Tunisia
+                                </h6>
+                                <div class="hero-btn-group" data-animation="fadeInUp" data-delay="700ms">
+                                    <a href="#" class="btn confer-btn">More Information <i class="zmdi zmdi-long-arrow-right"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
